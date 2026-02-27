@@ -1,3 +1,6 @@
+ML Classification Project
+Binary classification using Logistic Regression and SVM on a real-world dataset.
+
 Overview
 Individual project for the Numerical Statistics course at University of Bologna
 (A.Y. 2023-24). Achieved top grade: 30/30.
